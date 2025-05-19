@@ -1,4 +1,4 @@
-// ready to upload inital version to github
+// Initial Version. Will refactor this to make it cleaner.
 
 
 #include <iostream>
